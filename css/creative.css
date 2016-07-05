@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: gray;
 }
 
 h1,
@@ -94,7 +94,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: gray;
 }
 
 .navbar-default .nav > li>a,
@@ -107,7 +107,7 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: 	#FFB6C1;
+    color: 	gray;
 }
 
 .navbar-default .nav > li.active>a,
@@ -307,6 +307,8 @@ header .header-content .header-content-inner p {
 
 .portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
+    background-color:#FFB6C1;
+    color:white;
 }
 
 @media(min-width:990px) {
