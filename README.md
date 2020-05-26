@@ -1,1 +1,2 @@
-# pixiehacks
+# PixieHacks
+Archived website for PixieHacks
